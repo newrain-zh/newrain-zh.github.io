@@ -1,37 +1,220 @@
-## Welcome to GitHub Pages
+# 简历+主页
 
-You can use the [editor on GitHub](https://github.com/newrain-zh/newrain-zh.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+我的自我介绍
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> 90后，北京，产品策划
+需求 • 分析 • 细节控
+逻辑思维能力与同理心强，擅长产品设计与交互设计。
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+这里写我的联系方式
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+`1860-123-4567`
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+`zhangxiaoyiwechat`
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+`xiaoyi@example.com`
 
-### Jekyll Themes
+# 👩🏻‍💼 工作经历
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/newrain-zh/newrain-zh.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+*每一段工作经历都使用单独的分栏显示*
 
-### Support or Contact
+---
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+## 2020
+
+2018.12-至今
+
+
+#### **小米 - 产品**运营
+
+描述你的工作经历。
+
+描述你的更多工作经历。
+
+
+
+## 2018
+
+2016.12-2018.11
+
+
+#### **字节跳动 - 产品**经历
+
+描述你的工作经历。
+
+描述你的更多工作经历。
+
+
+
+## 2015
+
+2013.01-2015.06
+
+
+#### **腾讯 - 实习**
+
+描述你的工作经历。
+
+描述你的更多工作经历。
+
+# 👩🏻‍💻 项目经历
+
+*每一个项目都使用单独的分栏显示*
+
+---
+
+
+
+## 2019
+
+2017.12-2019.09
+
+
+#### **项目**1 - 角色
+
+描述你的项目经历。
+
+描述你的更多项目经历。
+
+
+
+## 2017
+
+
+2016.01-2017.05
+
+
+#### **项目**2 - 角色
+
+描述你的项目经历。
+描述你的更多项目经历。
+
+
+
+## 2015
+
+2014.02-2015.12
+
+
+#### **项目**3 - 角色
+
+描述你的项目经历。
+
+描述你的更多项目经历。
+
+# 👸🏻 能力
+
+*每一个技能项都使用单独的分栏显示*
+
+---
+
+
+
+#### 能力1
+
+
+⭐⭐⭐⭐⭐
+
+
+
+#### 能力2
+
+
+⭐⭐⭐
+
+
+
+#### 能力3
+
+
+⭐⭐⭐⭐
+
+
+
+#### CET4/CET6
+
+
+✔️
+
+
+
+#### GPA
+
+
+3.96
+
+# 👩🏻‍🎓 教育
+
+*每一段教育经历都使用单独的分栏显示*
+
+---
+
+
+
+### 2010-2014
+
+
+### 上海交通大学
+
+计算机科学与技术 - 硕士
+
+
+
+### 2006-2010
+
+
+### 复旦大学
+
+数学 - 学士
+
+# 👩🏻 个人
+
+---
+
+*这里写我的社交账号*
+
+
+
+[@张三](https://www.zhihu.com/people/user_id)
+
+
+[@张三](https://weibo.com/user_id)
+
+
+[@zhangsan](https://github.com/user_id)
+
+*这里是关于我的一些额外信息，兴趣爱好等*
+
+- 在听的歌
+
+[Missing Mountains](Missing Mountains/Missing Mountains.md)
+
+[同类](同类/同类.md)
+
+- 在看的剧
+
+[后翼弃兵](后翼弃兵/后翼弃兵.md)
+
+[异星灾变](异星灾变/异星灾变.md)
+
+- 喜欢的书
+
+[失控](失控/失控.md)
+
+[生命3.0](生命3.0/生命3.0.md)
+
+[人类简史](人类简史/人类简史.md)
+
+
+> 全世界不缺你一个
+但有同类感同身受
+或许是你我存在理由 ❤️
+
+
